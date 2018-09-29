@@ -12,6 +12,7 @@
 		690EA097215F924C00B4EA16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 690EA095215F924C00B4EA16 /* Main.storyboard */; };
 		690EA099215F924D00B4EA16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 690EA098215F924D00B4EA16 /* Assets.xcassets */; };
 		690EA09C215F924D00B4EA16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 690EA09A215F924D00B4EA16 /* LaunchScreen.storyboard */; };
+		690EA0A4215FA32400B4EA16 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690EA0A3215FA32400B4EA16 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		690EA098215F924D00B4EA16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		690EA09B215F924D00B4EA16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		690EA09D215F924D00B4EA16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		690EA0A3215FA32400B4EA16 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				690EA091215F924C00B4EA16 /* AppDelegate.swift */,
 				690EA093215F924C00B4EA16 /* ViewController.swift */,
 				690EA095215F924C00B4EA16 /* Main.storyboard */,
+				690EA0A3215FA32400B4EA16 /* ViewController2.swift */,
 				690EA098215F924D00B4EA16 /* Assets.xcassets */,
 				690EA09A215F924D00B4EA16 /* LaunchScreen.storyboard */,
 				690EA09D215F924D00B4EA16 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				690EA094215F924C00B4EA16 /* ViewController.swift in Sources */,
 				690EA092215F924C00B4EA16 /* AppDelegate.swift in Sources */,
+				690EA0A4215FA32400B4EA16 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
